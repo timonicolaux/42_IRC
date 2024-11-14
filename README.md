@@ -20,7 +20,7 @@ Once the server is running, launch a connexion with Hexchat by completing the ri
 
 Also complete nickname, realname, username, unselect "Use SSL for all the servers on this network" + "Use global user information", select "Accept invalid SSL certificates".
 
-That's it, you can now click on connect and you are logged in on the server !
+That's it, you can now click on connect and you are logged in to the server !
 
 ## Intructions for testing program
 
@@ -40,3 +40,9 @@ Here are the available commands :
 ## Bonus
 
 - /QUIZ number : launches a new Quiz game with the number of questions (min 1, max 10)
+
+You will be able to talk in PRIVMSG to Bot JulienLepers and send your answers to the questions !
+
+Have fun :sunglasses:
+
+![alt text](https://i.makeagif.com/media/9-06-2015/kNlPyX.gif)
